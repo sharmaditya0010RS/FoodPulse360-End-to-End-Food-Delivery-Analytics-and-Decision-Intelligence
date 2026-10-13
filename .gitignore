@@ -1,0 +1,32 @@
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local files
+.DS_Store
+Thumbs.db
+
+# Generated reports and processed data
+data/processed/
+data/reports/
+
+# Large raw datasets
+data/raw/*.xlsx
+data/raw/*.csv
+
+# Temporary files
+*.log
+*.tmp
