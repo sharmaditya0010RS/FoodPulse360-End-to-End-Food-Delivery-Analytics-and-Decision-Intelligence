@@ -1,4 +1,4 @@
-# FoodPulse 360 V2.0
+# FoodPulse360
 
 ### End-to-End Food Delivery Analytics & Decision Intelligence
 
